@@ -1,4 +1,4 @@
-# Simple Lambda push example
+# Simple Lambda POST example
 
 A simple Lambda service that allows sending a post request to an API and returns it's response.
 
