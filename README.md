@@ -16,5 +16,7 @@ npm start
 
 In the secondary terminal window, execute this:
 ```sh
-open http://localhost:3000/hello/get
+curl -X GET http://localhost:3000/hello/get
 ```
+or just open [the page into browser](open http://localhost:3000/hello/get)
+
